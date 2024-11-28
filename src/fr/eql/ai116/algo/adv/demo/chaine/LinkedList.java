@@ -25,6 +25,35 @@ public class LinkedList {
         }
     }
 
+    public void addFirst(int data) {
+        Node newNode = new Node(data);
+
+        newNode.next = head;
+        head = newNode;
+    }
+
+    public void addAtPosition(int data, int position) {
+        Node newNode = new Node(data);
+
+        if (position == 0) {
+            addFirst(data);
+            return;
+        }
+
+        Node currentNode = head; // On part du premier nœud.
+
+        // On avance jusqu'à la bonne position.
+        for (int i = 0; i < position; i++) {
+            if (currentNode == null) {
+                throw new OutOfBoundException("Position hors limites.");
+            }
+            currentNode = currentNode.next;
+        }
+
+        newNode.next = currentNode.next; // Lien du nouveau nœud vers le suivant.
+        currentNode.next = newNode; // Lien du nœud précédent vers le nouveau.
+    }
+
     public void display() {
         // On part du premier élément.
         Node current = head;

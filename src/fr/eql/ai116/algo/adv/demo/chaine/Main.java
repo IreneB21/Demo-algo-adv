@@ -8,6 +8,8 @@ public class Main {
         l.add(20);
         l.add(40);
         l.add(50);
+        l.addFirst(80);
+        l.addAtPosition(38, 3);
         l.display();
     }
 }

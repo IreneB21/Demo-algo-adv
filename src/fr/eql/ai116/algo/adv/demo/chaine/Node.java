@@ -11,3 +11,32 @@ public class Node {
         this.next = null;
     }
 }
+
+/*
+head == null
+newNode = Node(data = 10)
+head = newNode = Node(data = 10)
+
+head == Node(data = 10)
+newNode = Node(data = 20)
+currentNode = head = Node(data = 10)
+currentNode.next = newNode = Node(data = 20)
+
+head == Node(data = 10)
+newNode = Node(data = 30)
+currentNode = head = Node(data = 10)
+        currentNode = currentNode.next = Node(data = 20)
+currentNode.next = newNode = Node(data = 30)
+
+head == Node(data = 10)
+newNode = Node(data = 40)
+currentNode = head = Node(data = 10)
+        currentNode = currentNode.next = Node(data = 30)
+currentNode.next = newNode = Node(data = 40)
+
+head == Node(data = 10)
+newNode = Node(data = 50)
+currentNode = head = Node(data = 10)
+        currentNode = currentNode.next = Node(data = 40)
+currentNode.next = newNode = Node(data = 50)
+ */
