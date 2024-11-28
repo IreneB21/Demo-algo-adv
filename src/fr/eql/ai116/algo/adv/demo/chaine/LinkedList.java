@@ -2,7 +2,7 @@ package fr.eql.ai116.algo.adv.demo.chaine;
 
 public class LinkedList {
 
-    // Premier nœud de la liste
+    // Premier nœud de la liste.
     private Node head;
 
     public LinkedList() {
