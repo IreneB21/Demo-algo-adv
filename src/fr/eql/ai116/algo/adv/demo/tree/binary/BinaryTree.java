@@ -65,4 +65,19 @@ public class BinaryTree {
         System.out.println("\r\nParcours InOrder de l'arbre :"); // Message d'information
         inOrderTraversal(root); // Lance le parcours InOrder en commençant par la racine
     }
+
+    // Méthode récursive pour rechercher une valeur.
+    boolean searchRec(Node node, int data) {
+        if (node == null) return false; // Si le nœud est null, la valeur n'existe pas.
+
+        if (node.data == data) {
+            return true; // Si la valeur du nœud est égale à la valeur recherchée.
+        } else if (data < node.data) {
+            // Si la valeur est inférieure, recherche dans le sous-arbre gauche.
+            return searchRec(node.left, data);
+        } else {
+            // Si la valeur est supérieure, recherche dans le sous-arbre droit.
+            return searchRec(node.right, data);
+        }
+    }
 }
