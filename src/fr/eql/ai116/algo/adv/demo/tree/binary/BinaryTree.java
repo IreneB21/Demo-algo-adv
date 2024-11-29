@@ -1,5 +1,8 @@
 package fr.eql.ai116.algo.adv.demo.tree.binary;
 
+import java.lang.reflect.Array;
+import java.util.List;
+
 public class BinaryTree {
 
     Node root; // Racine de l'arbre.
@@ -57,7 +60,7 @@ public class BinaryTree {
         }
     }
 
-    // Méthode pour démarrer le parcours InOrder à partir de la racine
+    // Méthode pour démarrer le parcours InOrder à partir de la racine.
     void displayInOrder() {
         System.out.println("\r\nParcours InOrder de l'arbre :"); // Message d'information
         inOrderTraversal(root); // Lance le parcours InOrder en commençant par la racine
