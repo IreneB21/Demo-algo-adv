@@ -1,0 +1,214 @@
+<Nom> * <Diamètre moyen> * <Type> * <Orbite>
+Soleil * 1392000 * Étoile * Sagittarius A
+Jupiter * 142984 * Planète * Soleil
+Saturne * 120536 * Planète * Soleil
+Uranus * 51118 * Planète * Soleil
+Neptune * 49528 * Planète * Soleil
+Terre * 12756 * Planète * Soleil
+Vénus * 12104 * Planète * Soleil
+Mars * 6780 * Planète * Soleil
+Ganymède * 5262 * Satellite * Jupiter
+Titan * 5150 * Satellite * Saturne
+Mercure * 4878 * Planète * Soleil
+Callisto * 4821 * Satellite * Jupiter
+Io * 3643 * Satellite * Jupiter
+Lune * 3474 * Satellite * Terre
+Europe * 3122 * Satellite * Jupiter
+Triton * 2707 * Satellite * Neptune
+Eris * 2600 * Objet épars * Soleil
+Pluton * 2310 * Objet de la ceinture de Kuiper * Soleil
+Titania * 1578 * Satellite * Uranus
+Rhéa * 1528 * Satellite * Saturne
+Obéron * 1523 * Satellite * Uranus
+Makémaké * 1500 * Objet de la ceinture de Kuiper * Soleil
+Japet * 1436 * Satellite * Saturne
+Sedna * 1400 * Objet épars * Soleil
+Charon * 1210 * Satellite * Pluton
+2007 OR10 * 1200 * Objet épars * Soleil
+Umbriel * 1169 * Satellite * Uranus
+Ariel * 1158 * Satellite * Uranus
+Haumea * 1150 * Objet de la ceinture de Kuiper * Soleil
+(84522) 2002 TC302 * 1150 * Objet de la ceinture de Kuiper * Soleil
+Dioné * 1118 * Satellite * Saturne
+Quaoar * 1075 * Objet de la ceinture de Kuiper * Soleil
+Téthys * 1060 * Satellite * Saturne
+Orcus * 950 * Objet de la ceinture de Kuiper * Soleil
+Cérès * 946 * Astéroïde * Soleil
+Ixion * 759 * Objet de la ceinture de Kuiper * Soleil
+2002 AW197 * 724 * Objet de la ceinture de Kuiper * Soleil
+2002 TX300 * 724 * Objet de la ceinture de Kuiper * Soleil
+2002 UX25 * 631 * Objet de la ceinture de Kuiper * Soleil
+Varuna * 603 * Objet de la ceinture de Kuiper * Soleil
+Vesta * 530 * Astéroïde * Soleil
+Pallas * 526 * Astéroïde * Soleil
+Encelade * 499 * Satellite * Saturne
+2001 UR163 * 479 * Objet épars * Soleil
+Miranda * 471 * Satellite * Uranus
+Protée * 418 * Satellite * Neptune
+1996 TO66 * 417 * Objet de la ceinture de Kuiper * Soleil
+Hygie * 407 * Astéroïde * Soleil
+Mimas * 397 * Satellite * Saturne
+1999 DE9 * 380 * Objet épars * Soleil
+Huya * 380 * Objet de la ceinture de Kuiper * Soleil
+1995 SM55 * 363 * Objet de la ceinture de Kuiper * Soleil
+Chaos * 347 * Objet de la ceinture de Kuiper * Soleil
+1999 TC36 * 347 * Objet de la ceinture de Kuiper * Soleil
+Néréide * 340 * Satellite * Neptune
+Interamnia * 333 * Astéroïde * Soleil
+Davida * 326 * Astéroïde * Soleil
+1996 GQ21 * 302 * Objet épars * Soleil
+2002 VE95 * 288 * Objet de la ceinture de Kuiper * Soleil
+Hypérion * 286 * Satellite * Saturne
+Europe * 278 * Astéroïde * Soleil
+1996 TL66 * 275 * Objet épars * Soleil
+1995 TL8 * 275 * Objet épars * Soleil
+Eunomie * 272 * Astéroïde * Soleil
+Junon * 267 * Astéroïde * Soleil
+Psyché * 264 * Astéroïde * Soleil
+Iris * 262 * Astéroïde * Soleil
+Sylvia * 260 * Astéroïde * Soleil
+Euphrosyne * 248 * Astéroïde * Soleil
+Cybèle * 237 * Astéroïde * Soleil
+Bamberga * 229 * Astéroïde * Soleil
+1998 SM165 * 229 * Objet épars * Soleil
+1998 SN165 * 229 * Objet de la ceinture de Kuiper * Soleil
+1999 KR16 * 229 * Objet épars * Soleil
+Patientia * 225 * Astéroïde * Soleil
+Camilla * 222 * Astéroïde * Soleil
+Phœbé * 220 * Satellite * Saturne
+Amphitrite * 219 * Astéroïde * Soleil
+Doris * 219 * Astéroïde * Soleil
+Diotima * 217 * Astéroïde * Soleil
+Herculina * 217 * Astéroïde * Soleil
+Egérie * 215 * Astéroïde * Soleil
+Eugénie * 214 * Astéroïde * Soleil
+Aurora * 212 * Astéroïde * Soleil
+Hermione * 209 * Astéroïde * Soleil
+2000 GN171 * 209 * Objet de la ceinture de Kuiper * Soleil
+Thisbé * 200 * Astéroïde * Soleil
+Chiron * 200 * Centaure * Soleil
+Larissa * 192 * Satellite * Neptune
+Sycorax * 190 * Satellite * Uranus
+Hébé * 186 * Astéroïde * Soleil
+Métis * 184 * Astéroïde * Soleil
+Irène * 182 * Astéroïde * Soleil
+Janus * 178 * Satellite * Saturne
+Agamemnon * 176 * Astéroïde * Soleil
+Galatée * 176 * Satellite * Neptune
+Amalthée * 172 * Satellite * Jupiter
+Himalia * 170 * Satellite * Jupiter
+Parthénope * 162 * Astéroïde * Soleil
+Puck * 162 * Satellite * Uranus
+Despina * 150 * Satellite * Neptune
+Flore * 141 * Astéroïde * Soleil
+Portia * 135 * Satellite * Uranus
+Astrée * 119 * Astéroïde * Soleil
+Epiméthée * 119 * Satellite * Saturne
+Victoria * 112 * Astéroïde * Soleil
+Prométhée * 100 * Satellite * Saturne
+Thébé * 99 * Satellite * Jupiter
+Caliban * 98 * Satellite * Uranus
+Juliette * 94 * Satellite * Uranus
+Elara * 86 * Satellite * Jupiter
+Pandore * 84 * Satellite * Saturne
+Thalassa * 82 * Satellite * Neptune
+Belinda * 81 * Satellite * Uranus
+Cressida * 80 * Satellite * Uranus
+Perdita * 80 * Satellite * Uranus
+Rosalinde * 72 * Satellite * Uranus
+Ida * 70 * Astéroïde * Soleil
+Naïade * 66 * Satellite * Neptune
+Desdémone * 64 * Satellite * Uranus
+Pasiphaé * 60 * Satellite * Jupiter
+Bianca * 51 * Satellite * Uranus
+Halimède * 48 * Satellite * Neptune
+Sao * 48 * Satellite * Neptune
+Laomédie * 48 * Satellite * Jupiter
+Néso * 48 * Satellite * Neptune
+Carmé * 46 * Satellite * Jupiter
+Métis * 43 * Satellite * Jupiter
+Ophélie * 43 * Satellite * Uranus
+Cordélia * 40 * Satellite * Uranus
+Sinopé * 38 * Satellite * Jupiter
+Lysithéa * 36 * Satellite * Jupiter
+Atlas * 33 * Satellite * Saturne
+Hélène * 33 * Satellite * Saturne
+Siarnaq * 32 * Satellite * Saturne
+Prospero * 30 * Satellite * Uranus
+Setebos * 30 * Satellite * Uranus
+Ananké * 28 * Satellite * Jupiter
+Psamathée * 28 * Satellite * Saturne
+Albiorix * 26 * Satellite * Saturne
+Télesto * 22 * Satellite * Saturne
+Phobos * 22 * Satellite * Mars
+Eros * 20 * Astéroïde * Soleil
+Adrastée * 20 * Satellite * Jupiter
+Léda * 20 * Satellite * Jupiter
+Calypso * 20 * Satellite * Saturne
+Pan * 20 * Satellite * Saturne
+Stephano * 20 * Satellite * Uranus
+Paaliaq * 19 * Satellite * Saturne
+Ymir * 16 * Satellite * Saturne
+Mab * 16 * Satellite * Uranus
+Kiviuq * 14 * Satellite * Saturne
+Tarvos * 13 * Satellite * Saturne
+Déimos * 12 * Satellite * Mars
+Ferdinand * 12 * Satellite * Uranus
+Francisco * 12 * Satellite * Uranus
+Cupid * 12 * Satellite * Uranus
+Marguerite * 11 * Satellite * Uranus
+Ijiraq * 10 * Satellite * Saturne
+Trinculo * 10 * Satellite * Uranus
+Callirrhoé * 9 * Satellite * Saturne
+Erriapo * 9 * Satellite * Saturne
+Thémisto * 8 * Satellite * Jupiter
+Praxidiké * 7 * Satellite * Saturne
+Narvi * 7 * Satellite * Saturne
+Mundilfari * 6 * Satellite * Saturne
+Skathi * 6 * Satellite * Saturne
+Suttungr * 6 * Satellite * Saturne
+Thrymr * 6 * Satellite * Saturne
+Jocaste * 5 * Satellite * Jupiter
+Calycé * 5 * Satellite * Jupiter
+Mégaclité * 5 * Satellite * Jupiter
+Taygèté * 5 * Satellite * Jupiter
+Autonoé * 4 * Satellite * Jupiter
+Chaldèné * 4 * Satellite * Jupiter
+Harpalycé * 4 * Satellite * Jupiter
+Hermippé * 4 * Satellite * Jupiter
+Isonoé * 4 * Satellite * Jupiter
+Thyoné * 4 * Satellite * Jupiter
+Eukéladé * 4 * Satellite * Jupiter
+Hélicé * 4 * Satellite * Jupiter
+Aoédé * 4 * Satellite * Jupiter
+S/2000 J 11 * 4 * Satellite * Jupiter
+S/2003 J 5 * 4 * Satellite * Jupiter
+Aitné * 3 * Satellite * Jupiter
+Erinomé * 3 * Satellite * Jupiter
+Euanthé * 3 * Satellite * Jupiter
+Eurydomé * 3 * Satellite * Jupiter
+Arché * 3 * Satellite * Jupiter
+Hégémone * 3 * Satellite * Jupiter
+Carpo * 3 * Satellite * Jupiter
+Coré * 2 * Satellite * Jupiter
+Euporie * 2 * Satellite * Jupiter
+Calé * 2 * Satellite * Jupiter
+Orthosie * 2 * Satellite * Jupiter
+Pasithée * 2 * Satellite * Jupiter
+Spondé * 2 * Satellite * Jupiter
+Callichore * 2 * Satellite * Jupiter
+Cyllèné * 2 * Satellite * Jupiter
+Mnémé * 2 * Satellite * Jupiter
+Telxinoé * 2 * Satellite * Jupiter
+Hersé * 2 * Satellite * Jupiter
+S/2003 J 2 * 2 * Satellite * Jupiter
+S/2003 J 3 * 2 * Satellite * Jupiter
+S/2003 J 4 * 2 * Satellite * Jupiter
+S/2003 J 10 * 2 * Satellite * Jupiter
+S/2003 J 15 * 2 * Satellite * Jupiter
+S/2003 J 16 * 2 * Satellite * Jupiter
+S/2003 J 18 * 2 * Satellite * Jupiter
+S/2003 J 19 * 2 * Satellite * Jupiter
+S/2003 J 23 * 2 * Satellite * Jupiter
+S/2003 J 9 * 1 * Satellite * Jupiter
+S/2003 J 12 * 1 * Satellite * Jupiter
