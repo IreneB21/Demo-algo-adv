@@ -1,4 +1,4 @@
-package fr.eql.ai116.algo.adv.demo.recherchedichotomique;
+package fr.eql.ai116.algo.adv.demo.search;
 
 public class Main {
     public static void main(String[] args) {
