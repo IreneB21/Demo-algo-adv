@@ -1,6 +1,6 @@
-package fr.eql.ai116.algo.adv.demo.search;
+package fr.eql.ai116.algo.adv.demo.dichotomousSearch;
 
-public class DichotomicSearch {
+public class DichotomousSearch {
 
     // Méthode pour vérifier si un élément existe dans un tableau.
     public static boolean doesExist(int x, int[] array, int start, int end) {
@@ -19,16 +19,6 @@ public class DichotomicSearch {
         }
         // Retourner faux si l'élément n'est pas trouvé.
         return false;
-
-//        if (node != null && data != node.data) {
-//            if (node.right.data < data) {
-//                doesContain(node.left, data);
-//            } else {
-//                doesContain(node.right, data);
-//            }
-//        }
-//        return true;
-//    }
     }
 
     // Méthode récursive pour vérifier si un élément existe dans un tableau trié.

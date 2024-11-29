@@ -1,4 +1,4 @@
-package fr.eql.ai116.algo.adv.demo.search;
+package fr.eql.ai116.algo.adv.demo.dichotomousSearch;
 
 public class Main {
     public static void main(String[] args) {
@@ -6,7 +6,7 @@ public class Main {
         int x = 7; // Élément à rechercher
 
         // Appel de la fonction avec les indices de début et de fin
-        boolean result = DichotomicSearch.doesExist(x, array, 0, array.length - 1);
+        boolean result = DichotomousSearch.doesExist(x, array, 0, array.length - 1);
 
         // Afficher le résultat
         if (result) {
@@ -18,7 +18,7 @@ public class Main {
         int y = 18; // Élément à rechercher
 
         // Appel de la fonction avec les indices de début et de fin
-        boolean result2 = DichotomicSearch.doesExistRecursive(y, array, 0, array.length - 1);
+        boolean result2 = DichotomousSearch.doesExistRecursive(y, array, 0, array.length - 1);
 
         // Afficher le résultat
         if (result2) {
